@@ -9,7 +9,7 @@ Instead of the default `English` wordlist, it uses the `Chinese/Pinyin` wordlist
 
 ## Usage 
 
-1. Install (.NET6)[https://dotnet.microsoft.com/en-us/download/dotnet/6.0]
+1. Install [.NET6](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 2. Execute `dotnet run`
 
 ## Example output
